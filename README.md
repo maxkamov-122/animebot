@@ -1,2 +1,0 @@
-# animebot
-animebot
